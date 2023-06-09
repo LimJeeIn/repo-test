@@ -1,6 +1,6 @@
 import React from 'react';
 import * as S from './Product.style';
-
+22;
 function Product() {
   return (
     <S.Product>
