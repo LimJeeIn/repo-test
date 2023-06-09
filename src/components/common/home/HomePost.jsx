@@ -9,7 +9,7 @@ function HomePost() {
         <S.PostWapper>
           <S.PostHeader>
             <S.Title>
-              애월읍 위니브 감귤농장
+              애월읍 위니브 감귤농장22
               <S.SubTitle>@ weniv_Mandarin</S.SubTitle>
             </S.Title>
             <S.MoreButton></S.MoreButton>
